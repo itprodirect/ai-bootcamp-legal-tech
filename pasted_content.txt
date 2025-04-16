@@ -1,0 +1,42 @@
+You are an AI education strategist.
+Create a 4-week AI training bootcamp syllabus designed specifically for lawyers and paralegals with little to no technical background.
+
+The goal of this program is to help legal professionals understand and use AI tools in their daily workflows, with a focus on real-world legal tasks.
+
+Please include:
+
+Weekly topics and themes (1 theme per week)
+
+3 hands-on activities or demos per week
+
+Key tools or platforms to use (e.g., ChatGPT, Claude, OpenAI file search, etc.)
+
+Estimated time commitment per activity
+
+Learning objectives for each week
+
+Make the curriculum:
+
+Highly practical and results-focused
+
+Easy to follow for non-technical professionals
+
+Ready to plug into a live cohort or self-paced format
+
+Emphasize the following throughout the program:
+
+Prompt Engineering tailored to legal workflows
+
+Document analysis using AI (contracts, leases, case files)
+
+AI-assisted contract review demos
+
+Ethics and limitations of using AI in legal contexts
+
+Output format:
+
+Markdown format
+
+Weekly breakdown with bullet points and clear section headers
+
+Include suggested tool links and recommended AI prompts
